@@ -1,0 +1,13 @@
+body {
+background: linear-gradient(to right, #ffecd2, #fcb69f);
+font-family: Arial, sans-serif;
+}
+
+.card {
+border-radius: 15px;
+}
+
+.btn:hover {
+transform: scale(1.05);
+opacity: 0.9;
+}

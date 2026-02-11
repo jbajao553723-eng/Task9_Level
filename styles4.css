@@ -1,0 +1,19 @@
+body {
+background: linear-gradient(to right, #fbc2eb, #a6c1ee);
+font-family: Arial, sans-serif;
+}
+
+.card {
+border-radius: 15px;
+box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.btn:hover {
+transform: scale(1.05);
+opacity: 0.9;
+}
+
+#coinCount {
+font-weight: bold;
+font-size: 1.2rem;
+}
